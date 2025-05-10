@@ -82,4 +82,5 @@ if __name__ == '__main__':
     run_mujoco(policy, cfg)
 ```
 
-# 由于个人主用Gitlab，暂时没有维护Github，这里暂时摘要了比较重要的文件给大家参考，等抽空写完SDK部署是先后会一一整理。。。
+## ～～由于个人主用Gitlab，暂时没有维护Github，这里暂时摘要了比较重要的文件给大家参考，等抽空写完SDK部署是先后会一一整理～～
+# 为避免覆盖，笔者另建新的维护项目：https://github.com/Ethereal1679/H2O_Sim_Real_reshuffle，此项目不再维护
